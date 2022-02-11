@@ -1,17 +1,19 @@
 # HTML+CSS+JS作品展示（换肤效果）
->  参考来源：
->
-> [JavaScript基础语法-dom-bom-js-es6新语法-jQuery-数据可视化echarts黑马pink老师前端入门基础视频教程(500多集)持续_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Sy4y1C7ha?p=217&spm_id_from=pageDriver)
+## 效果展示：
 
-# 点击缩略图，更换背景图效果
+![img](https://img-blog.csdnimg.cn/e72e73b98b654f76a2470940789bedd5.gif)
 
-### 网页GitHub地址如下：（若加载较慢建议刷新后耐心等待一会~）
+## 网页GitHub地址如下：（若加载较慢建议刷新后耐心等待一会~）
 
 https://jiang-lijun.github.io/js_huanfu/
 
+## 主要功能：
+
+点击缩略图，更换背景图效果
+
 ### 网页代码如下：
 
-HTML+CSS+JS：
+### HTML+CSS+JS：
 
 ```html
 <!DOCTYPE html>
