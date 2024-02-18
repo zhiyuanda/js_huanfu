@@ -4,8 +4,7 @@
 ![img](https://img-blog.csdnimg.cn/e72e73b98b654f76a2470940789bedd5.gif)
 
 ## 网页GitHub地址如下：（若加载较慢建议刷新后耐心等待一会~）
-
-https://jiang-lijun.github.io/js_huanfu/
+https://zhiyuanda.github.io/js_huanfu/
 
 ## 主要功能：
 
